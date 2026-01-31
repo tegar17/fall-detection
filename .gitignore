@@ -1,0 +1,40 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE / Editor
+.idea/
+.vSCode/
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files (YOLO / PyTorch)
+*.pt
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
